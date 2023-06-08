@@ -1,4 +1,4 @@
-package ASimulatorSystem;
+package ATM;
 
 import java.awt.*;
 import java.awt.event.*;

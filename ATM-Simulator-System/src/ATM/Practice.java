@@ -1,5 +1,5 @@
 
-package ASimulatorSystem;
+package ATM;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
